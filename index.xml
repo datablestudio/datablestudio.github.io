@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datable studio</title>
+    <link>https://example.org/</link>
+    <description>Recent content on datable studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jul 2018 01:09:45 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tribenet</title>
+      <link>https://example.org/portfolio/tribenet/</link>
+      <pubDate>Thu, 26 Jul 2018 01:09:45 +0200</pubDate>
+      
+      <guid>https://example.org/portfolio/tribenet/</guid>
+      <description>More info coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Gencloth</title>
+      <link>https://example.org/portfolio/gencloth/</link>
+      <pubDate>Thu, 26 Jul 2018 01:00:17 +0200</pubDate>
+      
+      <guid>https://example.org/portfolio/gencloth/</guid>
+      <description>GenCloth is a 3D toolkit and data set archive for generative garment design. The ambition of the project is to empower local fashion designers with 3D software toolkits for rapid client customization in order to grow local talent, local economies, and local demand for bespoke clothing. This project began as an idea in 2013 after 3d scanning the bodies of 150 people in Barcelona and discovering the wonderful and rich diversity in each of those bodies.</description>
+    </item>
+    
+    <item>
+      <title>Programmable Plaid – The Search For Seamless Integration In Fashion And Technology</title>
+      <link>https://example.org/portfolio/programmable-plaid/</link>
+      <pubDate>Thu, 26 Jul 2018 00:34:10 +0200</pubDate>
+      
+      <guid>https://example.org/portfolio/programmable-plaid/</guid>
+      <description>The work presented celebrates traditional tartan patterns and their design parameters, as well as the numerous technological achievements in woven textiles. Programmable Plaid is a woven textile (as applied in the garment presented) with the capability to illuminate threads in both warp and weft directions. The project investigates the creation of garments for day-to-day use, which is a use-case probably never considered when developing off-the-shelf electronic components. In developing a new tartan pattern and fabrication technique, we respond to the lack of purpose-made electronic components by choosing to evolve tradition into technology.</description>
+    </item>
+    
+    <item>
+      <title>Robots in Gastronomy</title>
+      <link>https://example.org/portfolio/robots-in-gastronomy/</link>
+      <pubDate>Thu, 26 Jul 2018 00:24:52 +0200</pubDate>
+      
+      <guid>https://example.org/portfolio/robots-in-gastronomy/</guid>
+      <description>More info coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Lüme</title>
+      <link>https://example.org/portfolio/lume/</link>
+      <pubDate>Thu, 26 Jul 2018 00:22:51 +0200</pubDate>
+      
+      <guid>https://example.org/portfolio/lume/</guid>
+      <description>Lüme is an electronically infused clothing collection which integrates dynamic, user customizable elements driven wirelessly from a common mobile phone. The design and engineering of the collection is focused on the integration of electronics in such a way that they could be easily removed or embedded when desired, thus creating pieces that are easy to wash and care for. The initial objective for the collection was to create a series of garments that could adapt to the users daily life, changing in color depending on the event, location, mood, or even just to match another garment or accessory.</description>
+    </item>
+    
+  </channel>
+</rss>
