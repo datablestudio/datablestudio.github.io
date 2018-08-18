@@ -325,6 +325,8 @@ SIDEBAR + RIGHT COLUMN
     width: inherit;
     z-index: 0;
     padding: 0 1em 0 0.2em;
+    top: 40px;
+    left: 5px;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -489,9 +491,16 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
   }
   .sidebar-offcanvas {
     position: absolute;
+    -webkit-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    opacity: 0;
     top: 0;
     width: 50%;
     /* 6 columns */
+  }
+  .row-offcanvas-left.active .sidebar-offcanvas {
+      opacity: 1;
   }
 }
 /*
