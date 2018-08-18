@@ -6,24 +6,15 @@
     <description>Recent content in Portfolios on datable studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 01:09:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 01:00:17 +0200</lastBuildDate>
     
 	<atom:link href="https://datablestudio.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tribenet</title>
-      <link>https://datablestudio.github.io/portfolio/tribenet/</link>
-      <pubDate>Thu, 26 Jul 2018 01:09:45 +0200</pubDate>
-      
-      <guid>https://datablestudio.github.io/portfolio/tribenet/</guid>
-      <description>More info coming soon.</description>
-    </item>
-    
-    <item>
       <title>Gencloth</title>
       <link>https://datablestudio.github.io/portfolio/gencloth/</link>
-      <pubDate>Thu, 26 Jul 2018 01:00:17 +0200</pubDate>
+      <pubDate>Thu, 16 Aug 2018 01:00:17 +0200</pubDate>
       
       <guid>https://datablestudio.github.io/portfolio/gencloth/</guid>
       <description>GenCloth is a 3D toolkit and data set archive for generative garment design. The ambition of the project is to empower local fashion designers with 3D software toolkits for rapid client customization in order to grow local talent, local economies, and local demand for bespoke clothing. This project began as an idea in 2013 after 3d scanning the bodies of 150 people in Barcelona and discovering the wonderful and rich diversity in each of those bodies.</description>
@@ -54,6 +45,15 @@
       
       <guid>https://datablestudio.github.io/portfolio/lume/</guid>
       <description>Lüme is an electronically infused clothing collection which integrates dynamic, user customizable elements driven wirelessly from a common mobile phone. The design and engineering of the collection is focused on the integration of electronics in such a way that they could be easily removed or embedded when desired, thus creating pieces that are easy to wash and care for. The initial objective for the collection was to create a series of garments that could adapt to the users daily life, changing in color depending on the event, location, mood, or even just to match another garment or accessory.</description>
+    </item>
+    
+    <item>
+      <title>Tribenet</title>
+      <link>https://datablestudio.github.io/portfolio/tribenet/</link>
+      <pubDate>Wed, 26 Jul 2017 01:09:45 +0200</pubDate>
+      
+      <guid>https://datablestudio.github.io/portfolio/tribenet/</guid>
+      <description>More info coming soon.</description>
     </item>
     
   </channel>
